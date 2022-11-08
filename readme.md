@@ -6,13 +6,17 @@ ___
 ![Git-Logo-2Color](./Git-Logo-2Color.png)
 ___
 ## Содержание: 
+
+
 1. [Что такое Git?](./git.md)
+
 2. Основные операции Git:
 - [git config](config.md)
 - [git init](init.md)
 - [git add](add.md)
 - [git commit](commit.md)
 - [git clone](clone.md)
+
 3. Получение данных о состоянии репозитория:
 - [git status](git%20status.md)
 - [git log](git%20log.md)
