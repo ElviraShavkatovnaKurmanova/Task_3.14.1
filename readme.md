@@ -1,7 +1,7 @@
 # Краткая инструкция по работе с Git
 ___
 
-License: [MIT](./Lisense.md)
+License: [MIT](License.md)
 ___
 ![Git-Logo-2Color](./Git-Logo-2Color.png)
 ___
